@@ -1,0 +1,12 @@
+1. Start a kickstarter
+2. 10 dollar maximum
+3. 1c, 25c, 50c, 1,and 2 dollar donation steps
+4. Setup "older" versions as viable/accessable "beta" rewards.
+5. When 10 dollar mark is reached send out final version to the public as open source.
+6. Use a abandonable no-name group name.
+7. Make notice at the very end saying that game can/will be abandoned at any point in time
+	distribution will be stopped, and any furtehr donations will be completely stopped.
+	we will not be making any refunds so back at your own risks (>_>)
+	and apologize in advance if it does occur (in which it will).
+8. ???
+9. Profit?
