@@ -1,0 +1,5 @@
+Name Harambe Protein
+DNASeq ACGCACTACGATGC
+TempSeq AGATCAG
+CodSeq GCGAGTC
+RelatedProtein Banana

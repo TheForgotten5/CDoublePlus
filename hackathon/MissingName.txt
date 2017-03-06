@@ -1,0 +1,5 @@
+Name 
+DNASeq ATGCACGATGC
+TempSeq AGATCAG
+CodSeq TCTAGTC
+RelatedProtein Banana
