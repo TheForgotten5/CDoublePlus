@@ -1,0 +1,40 @@
+//Event.h
+
+#pragma once
+using namespace std;
+
+class Event {
+
+private:
+char type;
+int time;
+int length;
+
+public:
+//Default constructor
+Event();
+
+//Constructor
+Event(char Type, int Time, int Length);
+
+//Description: Returns the type of event
+char getType() const;
+
+//Description: Returns the length of transaction
+int getLength() const;
+
+//Description: Returns the time of event
+int getTime() const;
+
+//Description: Sets the type of event
+void setType(char newType);
+
+//Description: Sets the length of transaction
+void setLength(unsigned int newLength);
+
+//Description: Sets the time of event
+void setTime(unsigned int newTime);
+
+//Description: Print contents
+friend ostream & operator<<(ostream & os, const Event & e);
+};
