@@ -42,7 +42,7 @@ namespace discordBot
             //Logs the bot into the server.
             discord.ExecuteAndWait(async () =>
             {
-                await discord.Connect("<>", TokenType.Bot);
+                await discord.Connect("< >", TokenType.Bot);
             });
         }
 
